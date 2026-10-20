@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Floor
+  - Fruit
+  - Enemy
+  - Boss
+  - Arrow
+  - Portal
+  - meteoro
+  - Coins
+  - Fuego
+  - Flecha
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - capaSuelo
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - enSuelo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: -1
+    uniqueID: 2522901429
+    locked: 0
+  - name: 0
+    uniqueID: 2182101397
+    locked: 0
+  - name: 1
+    uniqueID: 1994336997
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
